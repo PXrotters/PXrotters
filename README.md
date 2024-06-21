@@ -10,17 +10,20 @@ Am construit o implementare minimalistă a unei biblioteci standard C pentru sis
 ### 🎵 Audio Player
 Am implementat o aplicație similară ca funcționalitate cu Spotify, simulând diverse acțiuni ale utilizatorului.
 
-### 🔧 Microprocesor
+### 🔧 Miniprocessor
 Am implementat un interpretator de biți similar unui procesor. Acesta are capacitatea de a decoda și executa diferite tipuri de instrucțiuni, cum ar fi adunarea, înmulțirea și altele.
 
-### 🌐 Dataplane Router
+### 🌐 Router Dataplane
 Am implementat componenta de dataplane a unui router -> partea care implementează procesul de dirijare propriu-zis, pe baza intrărilor din tabela de routare.
+
+### 🌍 Web Client
+În contextul acestei teme, am dezvoltat un client HTTP, capabil să comunice cu un server (ce va expune un API de tip REST).
 
 ### 🗄️ Query Language
 Am implementat un Query Language inspirat de SQL, ce utilizează o bază de date implementată de mine.
 
-### 🌍 Web Client
-În contextul acestei teme, am dezvoltat un client HTTP, capabil să comunice cu un server (ce va expune un API de tip REST).
+### 🧮 Lambda Calculus Interpreter
+Am implementat un interpretor de expresii lambda în Haskell.
 
 ## 📬 Contact
 
