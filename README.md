@@ -120,5 +120,6 @@ A prospective graduate in Computer Science, driven, persistent, and highly organ
 | **🌍 Web Client**           | Implemented an HTTP client that interacts with a RESTful API. |
 | **🗄️ Query Language**       | Created a SQL-inspired query language with a custom database. |
 | **🧮 Lambda Calculus Interpreter** | Built an interpreter for lambda expressions in Haskell. |
+| **🔀 Ethernet Switch**      | Implemented MAC learning, VLAN (802.1Q), and Spanning Tree Protocol (STP) in a software-defined switch. |
 
 ---
