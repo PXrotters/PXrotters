@@ -115,7 +115,7 @@ A prospective graduate in Computer Science, driven, persistent, and highly organ
 |-----------------------------|------------------------------------------------------------------|
 | **📚 Mini‑libc**            | A minimalist C standard library for Linux, handling strings, memory, and POSIX file I/O. |
 | **🎵 Audio Player**         | A Spotify-like application that simulates various user actions. |
-| **🔧 Miniprocessor**        | A bit interpreter capable of executing instructions like addition and multiplication. |
+| **🪖 Tank Wars**            | Developed an interactive OpenGL game featuring deformable terrain, mobile tanks, projectile physics, and collision detection. |
 | **🌐 Router Dataplane**     | Developed a router's dataplane to handle routing based on the routing table. |
 | **🌍 Web Client**           | Implemented an HTTP client that interacts with a RESTful API. |
 | **🗄️ Query Language**       | Created a SQL-inspired query language with a custom database. |
