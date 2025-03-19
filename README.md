@@ -117,25 +117,14 @@ A prospective graduate in Computer Science, driven, persistent, and highly organ
 
 ## 🌟 Favorite Projects
 
-### 📚 Mini‑libc
-I built a minimalist implementation of a C standard library for Linux systems, designed to replace the system's libc. The goal was to create a functional minimal libc with features like string handling, basic memory support, and POSIX file I/O.
-
-### 🎵 Audio Player
-I implemented an application similar to Spotify, simulating various user actions.
-
-### 🔧 Miniprocessor
-I built a bit interpreter similar to a processor, capable of decoding and executing different types of instructions such as addition, multiplication, and others.
-
-### 🌐 Router Dataplane
-I developed the dataplane component of a router, which is responsible for handling the actual routing process based on inputs from the routing table.
-
-### 🌍 Web Client
-In this project, I developed an HTTP client capable of communicating with a server exposing a RESTful API.
-
-### 🗄️ Query Language
-I implemented a Query Language inspired by SQL, using a self-implemented database.
-
-### 🧮 Lambda Calculus Interpreter
-I developed an interpreter for lambda expressions in Haskell.
+| 🚀 Project                  | 📝 Description |
+|-----------------------------|------------------------------------------------------------------|
+| **📚 Mini‑libc**            | A minimalist C standard library for Linux, handling strings, memory, and POSIX file I/O. |
+| **🎵 Audio Player**         | A Spotify-like application that simulates various user actions. |
+| **🔧 Miniprocessor**        | A bit interpreter capable of executing instructions like addition and multiplication. |
+| **🌐 Router Dataplane**     | Developed a router's dataplane to handle routing based on the routing table. |
+| **🌍 Web Client**           | Implemented an HTTP client that interacts with a RESTful API. |
+| **🗄️ Query Language**       | Created a SQL-inspired query language with a custom database. |
+| **🧮 Lambda Calculus Interpreter** | Built an interpreter for lambda expressions in Haskell. |
 
 ---
