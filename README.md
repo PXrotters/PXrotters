@@ -109,12 +109,6 @@ A prospective graduate in Computer Science, driven, persistent, and highly organ
 
 ###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PXrotters&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PXrotters&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 ## 🌟 Favorite Projects
 
 | 🚀 Project                  | 📝 Description |
