@@ -114,6 +114,7 @@ A prospective graduate in Computer Science, driven, persistent, and highly organ
 | **🪖 Tank Wars**            | Developed an interactive OpenGL game featuring deformable terrain, mobile tanks, projectile physics, and collision detection. |
 | **🌐 Router Dataplane**     | Developed a router's dataplane to handle routing based on the routing table. |
 | **🌍 Web Client**           | Implemented an HTTP client that interacts with a RESTful API. |
+| **📈 Le Stats Sportif**     | A Flask-based web app for analyzing physical activity and obesity statistics (USA, 2011–2022), with threaded background processing and a REST API. |
 | **🗄️ Query Language**       | Created a SQL-inspired query language with a custom database. |
 | **🧮 Lambda Calculus Interpreter** | Built an interpreter for lambda expressions in Haskell. |
 | **🔀 Ethernet Switch**      | Implemented MAC learning, VLAN (802.1Q), and Spanning Tree Protocol (STP) in a software-defined switch. |
