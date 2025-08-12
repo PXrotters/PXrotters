@@ -118,6 +118,6 @@ A prospective graduate in Computer Science, driven, persistent, and highly organ
 | **🗄️ Query Language**       | Created a SQL-inspired query language with a custom database. |
 | **🧮 Lambda Calculus Interpreter** | Built an interpreter for lambda expressions in Haskell. |
 | **🔀 Ethernet Switch**      | Implemented MAC learning, VLAN (802.1Q), and Spanning Tree Protocol (STP) in a software-defined switch. |
-| **💣 Minesweeper (Arduino)** | Designed and implemented a fully playable Minesweeper game using an Arduino, joystick, buttons, and a TFT display, featuring real-time rendering and interactive UI. |
+| **💣 Embedded Minesweeper** | Designed and implemented a fully playable Minesweeper game using an Arduino, joystick, buttons, and a TFT display, featuring real-time rendering and interactive UI. |
 
 ---
