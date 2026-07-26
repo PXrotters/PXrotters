@@ -220,8 +220,6 @@ Proficient in **Python, Java, and C/C++**, backed by a solid foundation in data 
 </tr>
 </table>
 
-> 📂 *See all [28 projects](https://www.linkedin.com/in/mihai-daniel-lemnaru-0605852a2/details/projects/) on my LinkedIn.*
-
 ---
 
 ## 📊 GitHub Stats
