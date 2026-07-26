@@ -26,19 +26,19 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Mihai-Daniel Lemnaru
-location: Bucharest, Romania
-education: B.Eng. in Computer Engineering — ACS, UPB (2022–2026)
-current_role: NOC Engineer Intern @ VOIS (Jun 2025 – Sep 2025)
-languages: [Romanian (Native), English (Professional)]
+A recent **B.Eng. graduate in Computer Engineering** from the Faculty of Automatic Control and Computer Science (ACS, UPB). Driven, persistent, and highly organized, with a strong passion for system-level development and intelligent architectures.
 
-interests:
-  - Low-Level Systems & OS Internals
-  - Computer Networks & the OSI Stack
-  - Machine Learning & AI
-  - Performance Optimization & Computer Architecture
-```
+Proficient in **Python, Java, and C/C++**, backed by a solid foundation in data structures, algorithms, and OOP.
+
+🔭 **Currently:** NOC Engineer Intern @ **VOIS** — working with TCP/IP, network monitoring, and incident management
+
+🎯 **Core Interests:**
+- 🖥️ Low-Level Systems & OS Internals
+- 🌐 Computer Networks & the OSI Stack
+- 🧠 Machine Learning & AI
+- ⚡ Performance Optimization & Computer Architecture
+
+🗣️ **Languages:** Romanian (Native) · English (Professional Working Proficiency)
 
 > *"Driven by the challenge of bridging the gap between bare-metal infrastructure and intelligent software."*
 
@@ -49,7 +49,7 @@ interests:
 <table>
   <tr>
     <td width="100" align="center">
-      <img src="https://media.licdn.com/dms/image/v2/D4D0BAQHLk7j4jNnFXQ/company-logo_100_100/company-logo_100_100/0/1719564058498/vaboroam_logo?e=1753920000&v=beta&t=placeholder" width="50" alt="VOIS" />
+      <img src="./assets/VOIS.jpg" width="60" alt="VOIS logo" />
     </td>
     <td>
       <b>Network Operations Center Engineer</b> · Internship<br/>
