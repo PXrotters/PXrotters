@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+there%2C+I'm+Mihai!+%F0%9F%91%8B;Systems+Engineer+%7C+ML+Enthusiast+%7C+Network+Nerd+%F0%9F%94%A7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hi+there%2C+I'm+Mihai!+%F0%9F%91%8B;Systems+Engineer+%7C+ML+Enthusiast+%F0%9F%94%A7;Computer+Networks+%7C+Low-Level+Systems+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/mihai-daniel-lemnaru-0605852a2/" target="_blank">
