@@ -30,8 +30,6 @@ A recent **B.Eng. graduate in Computer Engineering** from the Faculty of Automat
 
 Proficient in **Python, Java, and C/C++**, backed by a solid foundation in data structures, algorithms, and OOP.
 
-🔭 **Currently:** NOC Engineer Intern @ **VOIS** — working with TCP/IP, network monitoring, and incident management
-
 🎯 **Core Interests:**
 - 🖥️ Low-Level Systems & OS Internals
 - 🌐 Computer Networks & the OSI Stack
